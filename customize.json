@@ -1,6 +1,6 @@
 {
   "greeting": "Olá",
-  "name": "Marcelinha",
+  "name": "Marcelinha!",
   "greetingText": "Achou mesmo que esse dia iria passar em branco?",
   "wishText": "Que venham mais muitos anos juntinhos!! ;)",
   "imagePath": "img/lydia2.png",
@@ -18,6 +18,6 @@
   "bigTextPart2": "...",
   "wishHeading": "Feliz  aniversário!",
   "outroText": "Espero que você tenha gostado!!",
-  "replayText": "Clique na tela se quiser ver novamente!!",
+  "replayText": "Clique na aqui se quiser ver novamente!!",
   "outroSmiley": ":)"
 }
