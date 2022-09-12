@@ -1,0 +1,23 @@
+{
+  "greeting": "Olá",
+  "name": "Marcelinha",
+  "greetingText": "Achou mesmo que esse dia iria passar em branco?",
+  "wishText": "Que venham mais muitos anos juntinhos!! ;)",
+  "imagePath": "img/lydia2.png",
+  "text1": "É seu aniversário!!! :D",
+  "textInChatBox": "Feliz aniversário!! Muitos BLABLABLA...",
+  "sendButtonLabel": "Enviar",
+  "text2": "Isso era o que eu ia fazer...",
+  "text3": "Mas ai eu parei e pensei...",
+  "text4": "Percebi que eu queria fazer algo",
+  "text4Adjective": "especial",
+  "text5Entry": "Porque,",
+  "text5Content": "você é especial!",
+  "smiley": ":)",
+  "bigTextPart1": "S",
+  "bigTextPart2": "O",
+  "wishHeading": "Feliz aniversário!",
+  "outroText": "Espero que você tenha gostado!!",
+  "replayText": "Clique na tela se quiser ver novamente!!",
+  "outroSmiley": ":)"
+}
