@@ -1,33 +1,29 @@
-## Happy Birthday!!!
+## 🎂 Happy Birthday!!! Code as a gift!
 
-### Wish someone special happy birthday in a special way.
+<details>
+<summary><h2>English Version</h2></summary>
+
+<h1 align="center">🥳 Happy birthday to my girlfriend!!</h1>
+<h3 align="center">🎁 Code as a little gift 🎂.</h3>
 
 #### [See it Live](https://victorvidal08.github.io/marcela-s-birthday/)
 
-#### Update: Now you can customize all the texts without modifying the code!
+<p>I've created this application with the aim of putting my programming knowledge into practice, and at the same time doing something different for my girlfriend.</p>
+<p>I really liked the result, and my girlfriend was very excited about it.</p>
 
-On the birthday of a special friend, I felt like the generic happy birthday text just wasn't gonna cut it for me. So I put together this animated web page at the last minute to wish them Happy Birthday.
+<p>Doing this project, even if simple, and seeing the result was really cool!!</p>
 
-I decided to publish it so that you can use it to make the special people in your life feel a bit more of what they truly are: special.
-You can create your very own happy-birthday page in a few easy steps:
+<p>Important: base used to make this code here: https://github.com/faahim/happy-birthday </p>
+</details>
 
-* Fork the repository
-* Open `customize.json` and replace the content with your own
-* Turn on GitHub pages for your repository (Settings > Pages)
-* Share the URL you get at the above step with your friend
+<h1 align="center">🥳 Feliz aniversário para minha namorada!!</h1>
+<h3 align="center">🎁 Código de presente.</h3>
 
-**You do not need to create Pull Request to this main repository to get it running.**
+#### [Veja a aplicação aqui!](https://victorvidal08.github.io/marcela-s-birthday/)
 
-I've created the JSON file (`customize.json`) for easy and quick customizability. It allows you the change all of the texts and the image used on the webpage without modifying the code. However, If you want to customize it further, leave the JSON fields empty and edit the HTML file directly. This is because the content in the JSON file overwrites the HTML.
+<p>Criei essa aplicação com o objetivo de colocar em prática meus conhecimentos de programação, e ao mesmo tempo fazer algo diferente para minha namorada.</p>
+<p>Gostei bastante do resultado, e minha namorada ficou bastante surpresa.</p>
 
-Please note that I've created this page in a hurry and it comes with no warranty.
+<p>Fazer esse projeto, mesmo que simples, e ver o resultado foi muito legal!!</p>
 
-Feel free to [get in touch with me](mailto:afiur.fahim@gmail.com) if you need any help with it. You can [find me on Twitter](https://twitter.com/faahim01) as well. :)
-
-
-## Contributing
-
-I've used plain HTML, CSS and JavaScript with [GSAP](https://greensock.com/gsap) for animations.
-If you have any idea to improve it or make it more interesting, feel free to send a PR, or create an issue for a feature request.
-
-Happy wishing! 🎉
+<p>Importante! usei como base a aplicação: https://github.com/faahim/happy-birthday </p>
